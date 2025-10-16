@@ -1,0 +1,14 @@
+services:
+  flask:
+    build:
+      context: .
+      dockerfile: ./docker/flask/Dockerfile
+    container_name: flask
+    working_dir: /usr/share/flask
+    volumes:
+      - "./flask:/usr/share/flask"
+    ports:
+      - "8080:8080"
+    expose:
+      - "8080"
+    command: python3 /usr/share/flask/main.py

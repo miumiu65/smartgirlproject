@@ -36,7 +36,19 @@
             {% for p in products %}
               <li>
                 <a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.name }}</a>
-                <small> — {{ p.categories|join(" / ") }}（score: {{ p.score }}）</small>
+                {% if p.sdg_icons %}
+                  <div class="sdg-icons">
+                    {% for icon in p.sdg_icons %}
+                      <img
+                      src="{{ url_for('static', filename='sdgs/' ~ icon) }}"
+                      alt="SDG {{ p.sdg_ids[loop.index0] }}"
+                      width="24" height="24" loading="lazy"
+                      style="vertical-align:middle;margin:4px 6px 0 0;border-radius:4px;"
+                    />
+                    {% endfor %}
+                  </div>
+              {% endif %}
+                <p><small>{{ p.coment|join(" / ") }}</small></p>
               </li>
             {% endfor %}
           </ul>

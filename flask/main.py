@@ -74,12 +74,31 @@ def analyze(combined_text, videos):
         base = 3 if hit == 2 else 1       # 両方一致を優先
         niche = 1 if len(cats) <= 2 else 0  # カテゴリが少ない商品を優遇
         return base + niche
+    
+    def to_sdg_ids(values):
+        ids = []
+        for v in (values or []):
+            s = str(v)
+            num = ""
+            for ch in s:
+                if ch.isdigit():
+                    num += ch
+                else:
+                    break
+            if num:
+                n = int(num)
+                if 1 <= n <= 17:
+                    ids.append(n)
+        return sorted(set(ids))
 
     scored = []
     for p in PRODUCTS:
         s = score(p)
         if s > 0:
-            scored.append({**p, "score": s})
+            sdg_ids = to_sdg_ids(p.get("sdgs", []))
+            # 01.png ～ 17.png （static_folder=sdgs/ を指している）
+            sdg_icons = [f"{n:02d}.png" for n in sdg_ids] 
+            scored.append({**p, "score": s, "sdg_ids": sdg_ids, "sdg_icons": sdg_icons})
 
     scored.sort(key=lambda x: (-x["score"], len(x.get("categories", [])), x.get("name", "")))
 

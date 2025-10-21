@@ -1,0 +1,164 @@
+[
+    {
+        "name" : "小寺　紗千子",
+        "sdgs" : [3],
+        "url" : "https://women-academics.web.nitech.ac.jp/search/professor/sachiko-kodera.html",
+        "categories" : ["医療・健康","ウェルビーイング"]
+    },
+    {
+        "name" : "黒川　紘子",
+        "sdgs" : [14],
+        "url" : "https://kdb.iimc.kyoto-u.ac.jp/profile/ja.b901ce77850360da.html",
+        "categories" : ["アウトドア・自然現象"]
+    },
+    {
+        "name" : "長井　美有紀",
+        "sdgs" : [5,12],
+        "url" : "https://nrid.nii.ac.jp/ja/nrid/1000090297763/",
+        "categories" : ["サステナビリティ","ビューティー・コスメ"]
+    },
+    {
+        "name" : "高馬　京子",
+        "sdgs" : [5,12],
+        "url" : "https://nrid.nii.ac.jp/ja/nrid/1000060757475/",
+        "categories" : ["ファッション","メディア・コンテンツ","サステナビリティ"]
+    },
+    {
+        "name" : "水野　僚子",
+        "sdgs" : [5,10,12],
+        "url" : "https://nrid.nii.ac.jp/ja/nrid/1000030469209/",
+        "categories" : ["アート・デザイン"]
+    },
+    {
+        "name" : "吉野　ジェニファー",
+        "sdgs" : [5,8,10],
+        "url" : "https://corriente.jp/jennifer-yoshino-interview-international-womens-day/",
+        "categories" : ["ゲーム"]
+    },
+    {
+        "name" : "金澤　秀子",
+        "sdgs" : [5,9,17],
+        "url" : "https://nrid.nii.ac.jp/ja/nrid/1000010240996/",
+        "categories" : ["テクノロジー・デジタル"]
+    },
+    {
+        "name" : "田中　東子",
+        "sdgs" : [5,10,16],
+        "url" : "https://nrid.nii.ac.jp/ja/nrid/1000040339619/",
+        "categories" : ["メディア・コンテンツ"]
+    },
+    {
+        "name" : "弓田　恵里香",
+        "sdgs" : [3,5,10],
+        "url" : "https://www.sendaidaigaku.jp/teacher.html?name=yumita-erika",
+        "categories" : ["スポーツ・アクティビティ"]
+    },
+    {
+        "name" : "西平　衣里",
+        "sdgs" : [3,12,15],
+        "url" : "https://sippo.asahi.com/author/?key=11002417",
+        "categories" : ["動物・ペット"]
+    },
+    {
+        "name" : "中村　美香",
+        "sdgs" : [5,8,11],
+        "url" : "https://researchers.center.wakayama-u.ac.jp/html/100001521_ja.html",
+        "categories" : ["旅行・観光"]
+    },
+    {
+        "name" : "今井　具子",
+        "sdgs" : [2,3,12,13],
+        "url" : "https://nrid.nii.ac.jp/ja/nrid/1000000393166/",
+        "categories" : ["食・グルメ"]
+    },
+    {
+        "name" : "眞中　今日子",
+        "sdgs" : [3,11,13],
+        "url" : "https://c-research.chuo-u.ac.jp/html/100005034_ja.html",
+        "categories" : ["乗り物・交通"]
+    },
+    {
+        "name" : "武田　史子",
+        "sdgs" : [5,8,10],
+        "url" : "https://nrid.nii.ac.jp/ja/nrid/1000070347285/",
+        "categories" : ["家事・暮らし"]
+    },
+    {
+        "name" : "小川　眞里子",
+        "sdgs" : [4,5,10],
+        "url" : "https://researchmap.jp/read0052468/",
+        "categories" : ["子育て・育児"]
+    },
+    {
+        "name" : "上野　加代子",
+        "sdgs" : [4,5,10],
+        "url" : "https://researchmap.jp/read0119887",
+        "categories" : ["教育・学び"]
+    },
+    {
+        "name" : "今井　具子",
+        "sdgs" : [2,3,5,12,13],
+        "url" : "https://www.dwc.doshisha.ac.jp/talk/food/detail08/",
+        "categories" : ["医療・健康"]
+    },
+    {
+        "name" : "上野　千鶴子",
+        "sdgs" : [4,5,10],
+        "url" : "https://uenofoundation.com/ueno",
+        "categories" : ["文学・本"]
+    },
+    {
+        "name" : "辻　浩美",
+        "sdgs" : [4,5,10],
+        "url" : "https://www.hmv.co.jp/artist_%E8%BE%BB%E6%B5%A9%E7%BE%8E_200000000903478/biography/",
+        "categories" : ["音楽"]
+    },
+    {
+        "name" : "中村　典子",
+        "sdgs" : [4,5,10,11],
+        "url" : "https://researchmap.jp/read0048950/",
+        "categories" : ["歴史・文化"]
+    },
+    {
+        "name" : "三浦　まり",
+        "sdgs" : [5,10,16],
+        "url" : "https://fl.sophia.ac.jp/faculty/faculty-723",
+        "categories" : ["政治・社会"]
+    },
+    {
+        "name" : "グレーヴァ　香子",
+        "sdgs" : [4,5,8,10],
+        "url" : "https://k-ris.keio.ac.jp/html/100000517_ja.html",
+        "categories" : ["経済・ビジネス"]
+    },
+    {
+        "name" : "治部　れんげ",
+        "sdgs" : [4,5,10,16],
+        "url" : "https://strdb.s.isct.ac.jp/html/100002839_ja.html",
+        "categories" : ["社会・ライフスタイル全般","エンタメ"]
+    },
+    {
+        "name" : "森澤　和子",
+        "sdgs" : [5,8,9,10],
+        "url" : "https://kyoiku-kenkyudb.omu.ac.jp/html/100001311_ja.html",
+        "categories" : ["サステナビリティ"]
+    },
+    {
+        "name" : "島田　由香",
+        "sdgs" : [3,5,8,10],
+        "url" : "https://corezoprize.com/shimada-yuka",
+        "categories" : ["ウェルビーイング"]
+    },
+    {
+        "name" : "小川　真理子",
+        "sdgs" : [3,5,10,11],
+        "url" : "https://nrid.nii.ac.jp/ja/nrid/1000050724746/",
+        "categories" : ["ホビー・趣味"]
+    },
+    {
+        "name" : "森脇　可奈",
+        "sdgs" : [4,5,9,17],
+        "url" : "https://researchmap.jp/kana.moriwaki",
+        "categories" : ["宇宙・科学"]
+    }
+]

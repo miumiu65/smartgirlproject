@@ -2,13 +2,13 @@ from flask import Flask, request, jsonify, render_template, redirect, url_for
 import os, json
 import main_cos
 import catchcopy
-
 import youtube
 
 BASE_DIR = os.path.dirname(__file__)
 CATEGORIES_PATH = os.path.join(BASE_DIR, "categories_with_examples.json")
 CATCH_JSON_PATH = os.path.join(BASE_DIR, "catchcopy.json")
 PRODUCTS_PATH = os.path.join(BASE_DIR, "products.json")
+PEOPLE_PATH = os.path.join(BASE_DIR, "people.json")
 
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 MODEL_NAME = os.getenv("EMBED_MODEL", "intfloat/multilingual-e5-large")
@@ -16,6 +16,9 @@ MODEL_NAME = os.getenv("EMBED_MODEL", "intfloat/multilingual-e5-large")
 # データ読込
 with open(PRODUCTS_PATH, "r", encoding="utf-8") as f:
     PRODUCTS = json.load(f)
+
+with open(PEOPLE_PATH, "r", encoding="utf-8") as f:
+    PEOPLE = json.load(f)
 
 catchcopy.init(json_path=CATCH_JSON_PATH)
 
@@ -99,6 +102,16 @@ def analyze(combined_text, videos):
             # 01.png ～ 17.png （static_folder=sdgs/ を指している）
             sdg_icons = [f"{n:02d}.png" for n in sdg_ids] 
             scored.append({**p, "score": s, "sdg_ids": sdg_ids, "sdg_icons": sdg_icons})
+    
+    scored.sort(key=lambda x: (-x["score"], len(x.get("categories", [])), x.get("name", "")))
+    
+    for p in PEOPLE:
+        s = score(p)
+        if s > 0:
+            sdg_ids = to_sdg_ids(p.get("sdgs", []))
+            # 01.png ～ 17.png （static_folder=sdgs/ を指している）
+            sdg_icons = [f"{n:02d}.png" for n in sdg_ids] 
+            scored.append({**p, "score": s, "sdg_ids": sdg_ids, "sdg_icons": sdg_icons})
 
     scored.sort(key=lambda x: (-x["score"], len(x.get("categories", [])), x.get("name", "")))
 
@@ -108,6 +121,7 @@ def analyze(combined_text, videos):
         result=result_str,
         catchcopy=copy_text,
         products=scored, 
+        people=scored,
         videos=videos
     )
 

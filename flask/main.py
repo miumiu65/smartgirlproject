@@ -31,13 +31,12 @@ print("✅ 準備完了", flush=True)
 
 app = Flask(__name__)  # templates/ を自動認識
 
-
 @app.get("/")
-def start():
+def index():
     return '<a href="http://localhost:8080/analyze">しんだん</a>';
 
-@app.route("/analyze", methods=["GET", "POST"])
-def index():
+@app.route("/analyze")
+def analyze():
     youtube_service = youtube.get_authenticated_service()
     liked_videos = youtube.get_liked_videos(youtube_service)
     texts, videos = [], []

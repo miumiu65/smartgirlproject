@@ -31,10 +31,12 @@ print("✅ 準備完了", flush=True)
 
 app = Flask(__name__)  # templates/ を自動認識
 
-
-
 @app.get("/")
 def index():
+    return '<a href="http://localhost:8080/analyze">しんだん</a>';
+
+@app.route("/analyze")
+def analyze():
     youtube_service = youtube.get_authenticated_service()
     liked_videos = youtube.get_liked_videos(youtube_service)
     texts, videos = [], []
@@ -49,7 +51,6 @@ def index():
     combined_text = " \n".join(t for t in texts if t)
     return analyze(combined_text, videos)
 
-# @app.route("/analyze", methods=["GET", "POST"])
 def analyze(combined_text, videos):
     # 上位2カテゴリ（[(name, score), ...]）
     top2 = main_cos.classify_top2(MODEL, CENTROIDS, combined_text)  # 例: [("ゲーム",0.82), ("エンタメ",0.76)]
@@ -127,4 +128,4 @@ def analyze(combined_text, videos):
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=8000, debug=True, use_reloader=False)
+    app.run(host="127.0.0.1", port=8080, debug=True, use_reloader=False)

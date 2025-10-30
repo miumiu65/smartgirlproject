@@ -635,5 +635,12 @@
         "url" : "https://main.flora-tech.jp/ja/wellflow-health-hr",
         "categories" : ["経済・ビジネス","テクノロジー・デジタル"],
         "coment" : ["サーベイ・行動促進から認定取得まで、全てを推進するサービス"]
+    },
+    {
+        "name" : "sawadamarche",
+        "sdgs" : [12],
+        "url" : "https://sawadamarche.com/",
+        "categories" : ["経済・ビジネス","ホビー・趣味","ファッション"],
+        "coment" : ["服などを再利用して糸に戻す取り組み"]
     }
 ]

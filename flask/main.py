@@ -2,13 +2,13 @@ from flask import Flask, request, jsonify, render_template, redirect, url_for
 import os, json
 import main_cos
 import catchcopy
-
 import youtube
 
 BASE_DIR = os.path.dirname(__file__)
 CATEGORIES_PATH = os.path.join(BASE_DIR, "categories_with_examples.json")
 CATCH_JSON_PATH = os.path.join(BASE_DIR, "catchcopy.json")
 PRODUCTS_PATH = os.path.join(BASE_DIR, "products.json")
+PEOPLE_PATH = os.path.join(BASE_DIR, "people.json")
 
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 MODEL_NAME = os.getenv("EMBED_MODEL", "intfloat/multilingual-e5-large")
@@ -16,6 +16,9 @@ MODEL_NAME = os.getenv("EMBED_MODEL", "intfloat/multilingual-e5-large")
 # データ読込
 with open(PRODUCTS_PATH, "r", encoding="utf-8") as f:
     PRODUCTS = json.load(f)
+
+with open(PEOPLE_PATH, "r", encoding="utf-8") as f:
+    PEOPLE = json.load(f)
 
 catchcopy.init(json_path=CATCH_JSON_PATH)
 
@@ -28,10 +31,12 @@ print("✅ 準備完了", flush=True)
 
 app = Flask(__name__)  # templates/ を自動認識
 
-
-
 @app.get("/")
 def index():
+    return '<a href="http://localhost:8080/analyze">しんだん</a>';
+
+@app.route("/analyze")
+def analyze():
     youtube_service = youtube.get_authenticated_service()
     liked_videos = youtube.get_liked_videos(youtube_service)
     texts, videos = [], []
@@ -46,7 +51,6 @@ def index():
     combined_text = " \n".join(t for t in texts if t)
     return analyze(combined_text, videos)
 
-# @app.route("/analyze", methods=["GET", "POST"])
 def analyze(combined_text, videos):
     # 上位2カテゴリ（[(name, score), ...]）
     top2 = main_cos.classify_top2(MODEL, CENTROIDS, combined_text)  # 例: [("ゲーム",0.82), ("エンタメ",0.76)]
@@ -74,12 +78,41 @@ def analyze(combined_text, videos):
         base = 3 if hit == 2 else 1       # 両方一致を優先
         niche = 1 if len(cats) <= 2 else 0  # カテゴリが少ない商品を優遇
         return base + niche
+    
+    def to_sdg_ids(values):
+        ids = []
+        for v in (values or []):
+            s = str(v)
+            num = ""
+            for ch in s:
+                if ch.isdigit():
+                    num += ch
+                else:
+                    break
+            if num:
+                n = int(num)
+                if 1 <= n <= 17:
+                    ids.append(n)
+        return sorted(set(ids))
 
     scored = []
     for p in PRODUCTS:
         s = score(p)
         if s > 0:
-            scored.append({**p, "score": s})
+            sdg_ids = to_sdg_ids(p.get("sdgs", []))
+            # 01.png ～ 17.png （static_folder=sdgs/ を指している）
+            sdg_icons = [f"{n:02d}.png" for n in sdg_ids] 
+            scored.append({**p, "score": s, "sdg_ids": sdg_ids, "sdg_icons": sdg_icons})
+    
+    scored.sort(key=lambda x: (-x["score"], len(x.get("categories", [])), x.get("name", "")))
+    
+    for p in PEOPLE:
+        s = score(p)
+        if s > 0:
+            sdg_ids = to_sdg_ids(p.get("sdgs", []))
+            # 01.png ～ 17.png （static_folder=sdgs/ を指している）
+            sdg_icons = [f"{n:02d}.png" for n in sdg_ids] 
+            scored.append({**p, "score": s, "sdg_ids": sdg_ids, "sdg_icons": sdg_icons})
 
     scored.sort(key=lambda x: (-x["score"], len(x.get("categories", [])), x.get("name", "")))
 
@@ -89,9 +122,10 @@ def analyze(combined_text, videos):
         result=result_str,
         catchcopy=copy_text,
         products=scored, 
+        people=scored,
         videos=videos
     )
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=8000, debug=True, use_reloader=False)
+    app.run(host="127.0.0.1", port=8080, debug=True, use_reloader=False)

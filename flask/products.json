@@ -4,6 +4,7 @@
         "sdgs" : [1,8,10,16],
         "url" : "https://www.motherhouse.co.jp/pages/about",
         "categories" : ["ファッション","社会・ライフスタイル全般"],
+        "picture" : "https://cdn.shopify.com/s/files/1/0696/2708/5119/files/map_2x_84575e3e-e1a2-46b9-84a4-0f16e63bb329.png",
         "coment" : ["バングラディシュ、ネパール、スリランカなどの素材や職人技術を生かして高品質な製品を製造・販売"]
     },
     {
@@ -11,6 +12,7 @@
         "sdgs" : [1,5,8,10,12,15,16],
         "url" : "https://peopletree.co.jp/pages/about-peopletree",
         "categories" : ["ファッション","アウトドア・自然体験","サステナビリティ"],
+        "picture" : "https://cdn.shopify.com/s/files/1/0867/6212/7658/files/about-peopletree-peopletree_01.jpg",
         "coment" : ["インド、バングラディッシュ、ネパールなどの素材を生かして手工芸品や衣服を販売"]
     },
     {
@@ -18,6 +20,7 @@
         "sdgs" : [1,2,17],
         "url" : "https://jp.tablefor2.org/",
         "categories" : ["食・グルメ","政治・社会","メディア・コンテンツ"],
+        "picture" : "https://jp.tablefor2.org/images/index/main-visual2.jpg",
         "coment" : ["世界食料デーに「おにぎりアクション」を開催し、「#OnigiriAction」をつけてInstagramなどに投稿すると、アフリカ・アジアの子どもたちに学校給食が届きます。企業の社員食堂を1食購入すると、アフリカやアジアの子どもたちに給食1食分が寄付される"]
     },
     {
@@ -25,6 +28,7 @@
         "sdgs" : [1,12,17],
         "url" : "https://www.the-body-shop.co.jp/shop/e/e35thtbs/",
         "categories" : ["アウトドア・自然体験","ビューティー・コスメ","サステナビリティ","社会・ライフスタイル全般"],
+        "picture" : "https://www.the-body-shop.co.jp/img/usr/products/i/e35thtbs/toppage/1_top/top_35th_logo.png",
         "coment" : ["世界各地の農家や生産者から公正な取引を行い、優れた自然原料を調達。店頭で香りを選びながらリフィルできる体験"]
     },
     {
@@ -32,6 +36,7 @@
         "sdgs" : [1,12],
         "url" : "https://hasuna.com/?srsltid=AfmBOoqSqA5udX4K3ULMEFSFg9IdQnDQBXzRAzICGjTkuvY87AFbOfTZ",
         "categories" : ["ファッション","サステナビリティ","政治・社会"],
+        "picture" : "https://hasuna.com/cdn/shop/files/HASUNARingGold_2000x.jpg?v=1613789520",
         "coment" : ["パキスタンやペルー、インドなど、労働環境改善のためにエシカルジュエリーの販売"]
     },
     {
@@ -39,6 +44,7 @@
         "sdgs" : [2],
         "url" : "https://www.oisix.com/OtameshiTouroku.lp.g6--top--top-shinki_domo_a__html.htm?hosid=1366&utm_source=microsoft&utm_medium=cpc&utm_campaign=otameshi&msclkid=2f613a2e75e01771912e523deb6edc25",
         "categories" : ["食・グルメ","家事・暮らし"],
+        "picture" : "https://www.oisix.com/smart/shared/img/2536/oic_intro_shinki_top_img_lead.jpg",
         "coment" : ["毎日のごはんづくりを、安心安全食材でおいしく健康的に、ラクに続けられる。"]
     },
     {
@@ -46,6 +52,7 @@
         "sdgs" : [2,15],
         "url" : "https://www.radishbo-ya.co.jp/shop/",
         "categories" : ["食・グルメ","アウトドア・自然体験","サステナビリティ"],
+        "picture" : "https://www.radishbo-ya.co.jp/contents/shop/radish/include/other/top/pc/img/202510/trial_mainimg_pc.jpg",
         "coment" : ["注文を受け取ってから野菜や果物を収穫するので、新鮮でおいしい状態で食材を食べられる。不揃い品を買い取るので農家さんもうれしい"]
     },
     {
@@ -53,6 +60,7 @@
         "sdgs" : [2],
         "url" : "https://tabete.me/",
         "categories" : ["食・グルメ"],
+        "picture" : "https://tabete.me/wp-content/themes/tabete/images/icon-app.png",
         "coment" : ["飲食店・コンビニの余剰食品をユーザーに安く販売。食品廃棄を防ぎ、資源の無駄を削減。"]
     },
     {
@@ -60,6 +68,7 @@
         "sdgs" : [2,17],
         "url" : "https://kuradashi.jp/pages/about",
         "categories" : ["食・グルメ"],
+        "picture" : "https://kuradashi.jp/cdn/shop/t/42/assets/about_pc.png?v=48630288314017971601684383155",
         "coment" : ["商品割れ、少しの傷、パッケージの汚れなどの規格外で販売されずに廃棄予定の商品の販売。お得な価格での販売"]
     },
     {
@@ -67,6 +76,7 @@
         "sdgs" : [3,6,12],
         "url" : "https://www.saraya.com/sdgs/",
         "categories" : ["医療・健康","社会・ライフスタイル全般"],
+        "picture" : "https://www.saraya.com/media/001/202112/logo.png",
         "coment" : ["100万人の手洗いプロジェクト,対象商品を購入することで売り上げの１％が公益財団法人日本ユニセフ協会に寄付され、ウガンダで展開する手洗い普及プログラムに活用されます"]
     },
     {
@@ -74,13 +84,15 @@
         "sdgs" : [3],
         "url" : "https://www.shionogi.com/jp/ja/sustainability.html",
         "categories" : ["医療・健康","社会・ライフスタイル全般"],
+        "picture" : "https://www.shionogi.com/content/dam/shionogi/jp/top/top-logo-03.png",
         "coment" : ["感染症治療薬・ワクチンの開発を推進。アフリカ諸国などへの医薬品アクセス支援にも注力。"]
     },
     {
         "name" : "ユニ・チャーム",
-        "sdgs" : [3,12],
+        "sdgs" : [3,12,13,17],
         "url" : "https://www.unicharm.co.jp/ja/csr-eco.html",
         "categories" : ["医療・健康","サステナビリティ"],
+        "picture" : "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/common/logo-company.svg",
         "coment" : ["世界初*となる、紙おむつから紙おむつへの「水平リサイクル」。その技術革新をベースに、これまでの”使い捨てる”から、”使う→集める→生まれ変わる”のサイクルへ。"]
     },
     {
@@ -88,6 +100,7 @@
         "sdgs" : [3],
         "url" : "https://welby.jp/service/",
         "categories" : ["医療・健康","テクノロジー・デジタル"],
+        "picture" : "https://welby.jp/assets/img/service/img-icon-app-0002.png",
         "coment" : ["病気や慢性疾患を抱える人向けのPHR（パーソナル・ヘルス・レコード）管理アプリを提供。患者中心の医療を実現。"]
     },
     {
@@ -95,6 +108,7 @@
         "sdgs" : [3,9],
         "url" : "https://www.medley.jp/",
         "categories" : ["医療・健康","テクノロジー・デジタル"],
+        "picture" : "https://www.medley.jp/img/medley-logo-white.svg",
         "coment" : ["オンライン診療プラットフォーム「CLINICS」の提供、医療情報の透明化による地域格差を改善できる。テクノロジーを通じて納得のできる医療を目指す"]
     },
     {
@@ -102,6 +116,7 @@
         "sdgs" : [4],
         "url" : "https://www.katariba.or.jp/spirit/index_brand.html?utm_source=yahoo&utm_medium=cpc&utm_campaign=brand&argument=1049rKz4&said=1&ca=807473997&gr=45810577830&cr=731607807049&kw=npo%E6%B3%95%E4%BA%BA%E3%82%AB%E3%82%BF%E3%83%AA%E3%83%90&mt=e&mid=ys&device=c&tg=kwd-2453116731317&yclid=YSS.EAIaIQobChMI25D41LejjQMVAthMAh1j3SBBEAAYASAAEgIyQPD_BwE&sa_p=YSA&sa_cc=&sa_t=1747242001800&sa_ra=61",
         "categories" : ["教育・学び","政治・社会","社会・ライフスタイル全般"],
+        "picture" : "https://www.katariba.or.jp/spirit/img/fv_f.jpg",
         "coment" : ["地方・困窮家庭・被災地の子どもに学びの機会を提供"]
     },
     {
@@ -109,6 +124,7 @@
         "sdgs" : [4],
         "url" : "https://studysapuri.jp/pr/k12-l/?vos=pd05br01a037brd0b0000000_0162460&utm_source=yahoo&utm_medium=cpc&utm_campaign=240221_all_b&yclid=YSS.EAIaIQobChMIxJj8hLKljQMVCswWBR2hBSWjEAAYASAAEgK60vD_BwE&sa_p=YSA&sa_cc=&sa_t=1747309215212&sa_ra=EC&__r=1",
         "categories" : ["教育・学び","子育て・育児"],
+        "picture" : "https://studysapuri.jp/lpassets/img/page/pr/k12-l/brand_top_logo_ad.png",
         "coment" : ["地方や塾に通えない家庭でも“質の高い授業”を受けられる。"]
     },
     {
@@ -116,6 +132,7 @@
         "sdgs" : [4,9],
         "url" : "https://www.kokuyo-st.co.jp/stationery/yarukipen/index.html",
         "categories" : ["教育・学び","ゲーム","テクノロジー・デジタル","子育て・育児"],
+        "picture" : "https://www.kokuyo-st.co.jp/stationery/yarukipen/img/mb_top4_pc.jpg",
         "coment" : ["鉛筆に取り付けるセンサー付きIoT文具。書いた量がアプリに記録され、努力が「見える化」される。"]
     },
     {
@@ -123,6 +140,7 @@
         "sdgs" : [3,5],
         "url" : "https://fermata-inc.com/",
         "categories" : ["社会・ライフスタイル全般","医療・健康","経済・ビジネス"],
+        "picture" : "https://fermata-inc.com/cdn/shop/files/ecosystem.svg?v=1708413449",
         "coment" : ["フェムテック市場で未だ海面の下に眠る潜在ニーズを可視化し、貴社の強みとかけ合わせ、あらたな価値創出をお手伝う"]
     },
     {
@@ -130,6 +148,7 @@
         "sdgs" : [10],
         "url" : "https://kiva.co.jp/sdgs",
         "categories" : ["テクノロジー・デジタル","サステナビリティ"],
+        "picture" : "https://storage.googleapis.com/studio-design-asset-files/projects/Kwa54lNrqX/s-1699x1005_v-fms_webp_14ed9772-e553-447f-8912-8d7b9a4a8e07_middle.webp",
         "coment" : ["製品の保証を提供し、商品故障時に交換修理のサービスを提供することで電子ごみの排出の削減"]
     },
     {
@@ -137,6 +156,7 @@
         "sdgs" : [12],
         "url" : "https://kiva.co.jp/",
         "categories" : ["テクノロジー・デジタル","サステナビリティ"],
+        "picture" : "https://storage.googleapis.com/studio-design-asset-files/projects/Kwa54lNrqX/s-2060x1323_v-frms_webp_15b275d3-9218-4be1-933c-9d6ced48d13c_middle.webp",
         "coment" : ["商品故障時に交換・修理サービスを提供することによって電子ゴミの排出を削減していきます。"]
     },
     {
@@ -144,6 +164,7 @@
         "sdgs" : [12],
         "url" : "https://remateri.com/blogs/material/repac30",
         "categories" : ["サステナビリティ","ファッション"],
+        "picture" : "https://cdn.shopify.com/s/files/1/0692/4143/8481/files/30_480x480.png?v=1672106362",
         "coment" : ["牛乳パックから糸を製作し、リサイクルすることでCO2の排出削減。糸から生地を作って靴下やタオルなどを販売しています。"]
     },
     {
@@ -151,6 +172,7 @@
         "sdgs" : [12,15],
         "url" : "https://bambooroll.jp/pages/how-to-start",
         "categories" : ["アウトドア・自然体験","サステナビリティ","動物・ペット","医療・健康"],
+        "picture" : "https://bambooroll.jp/cdn/shop/files/mainimage03_1944x.jpg?v=1614772574",
         "coment" : ["管理されていない竹林を地域の人が整備しその竹を用いてトイレットペーパー、猫砂、トイレの消臭などを作っている。"]
     },
     {
@@ -158,6 +180,7 @@
         "sdgs" : [3,6],
         "url" : "https://lifestraw.com/",
         "categories" : ["医療・健康","アウトドア・自然体験"],
+        "picture" : "https://lifestraw.com/cdn/shop/files/environment_800x.jpg?v=1647617355",
         "coment" : ["川や池の水をそのまま安全に飲めるストロー型浄水器。LifeStraw製品を1回購入すれば、困っている子供に1年間安全な水を提供する。水が確保できない環境で生命線となる製品"]
     },
     {
@@ -165,6 +188,7 @@
         "sdgs" : [6,11],
         "url" : "https://www.lixil.com/jp/stories/stories_19/",
         "categories" : ["家事・暮らし","医療・健康"],
+        "picture" : "https://www.lixil.com/jp/stories/stories_19/img/index_photo_img_01.jpg",
         "coment" : ["プラスチック製の簡易式トイレ。既存の汲み取り式トイレシステムと組み合わせ臭気の排出や虫の侵入、繁殖を防ぐ機能があり、地域の衛生環境を向上させる効果が期待できる"]
     },
     {
@@ -172,6 +196,7 @@
         "sdgs" : [6],
         "url" : "https://vending99.com/water-atm-bridging-the-gap-for-clean-drinking-water/",
         "categories" : ["医療・健康","社会・ライフスタイル全般"],
+        "picture" : "https://vending99.com/wp-content/uploads/2024/02/Untitled-design-4-1024x576.jpg",
         "coment" : ["コインまたはカードで24時間安全な水が供給される。サービスの行き届いていないコミュニティに無料または補助金付きの水を提供。"]
     },
     {
@@ -179,6 +204,7 @@
         "sdgs" : [6,12,14],
         "url" : "https://www.shabon.com/shop/list/emseries",
         "categories" : ["医療・健康","アウトドア・自然体験"],
+        "picture" : "https://www.shabon.com/shop/f/resources/images/common/logo.pngs",
         "coment" : ["発酵食品（パン・納豆・味噌）に使われている微生物（麹・納豆菌・酵母）など自然界の有用な微生物を集めたもの。水の「質」まで守るサステナブルな洗浄用品"]
     },
     {
@@ -186,6 +212,7 @@
         "sdgs" : [7,9,13],
         "url" : "https://panasonic.biz/appliance/FC/enefarm/index.html",
         "categories" : ["テクノロジー・デジタル","家事・暮らし"],
+        "picture" : "",
         "coment" : ["水素と酸素でエネルギー（電気とお湯）をつくります。スマホで電気使用量を見ることができる"]
     },
     {
@@ -193,6 +220,7 @@
         "sdgs" : [7,9,13],
         "url" : "https://solight-design.jp/",
         "categories" : ["アウトドア・自然体験"],
+        "picture" : "https://solight-design.jp/cdn/shop/files/top-pic1_dc70d842-1588-4a7c-9bb6-953a86659e82.jpg?v=1699289192&width=750",
         "coment" : ["太陽光でランタンができる。コンパクトに折りたたむことができるので簡単に持ち運べる"]
     },
     {
@@ -200,6 +228,7 @@
         "sdgs" : [7,9,13],
         "url" : "https://www.tesla.com/ja_jp/powerwall",
         "categories" : ["テクノロジー・デジタル","家事・暮らし"],
+        "picture" : "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/1M-Powerwalls-Powerwall-2-Hero-Desktop.png",
         "coment" : ["エネルギーの自給自足、太陽光発電で電気を蓄電し夜に電気を使用する。スマホで自宅の電力情報を管理。"]
     },
     {
@@ -207,6 +236,7 @@
         "sdgs" : [7],
         "url" : "None",
         "categories" : ["食・グルメ","アウトドア・自然体験"],
+        "picture" : "None",
         "coment" : ["ガス・電気なしで太陽熱だけで調理できる器具。持ち運びもできる。発展途上国やキャンプ、災害用にも良い"]
     },
     {
@@ -214,6 +244,7 @@
         "sdgs" : [1,8],
         "url" : "https://www.p-alt.co.jp/thirdworldshop/",
         "categories" : ["食・グルメ"],
+        "picture" : "https://www.p-alt.co.jp/wp-content/uploads/2016/12/%E7%AC%AC%EF%BC%93%E4%B8%96%E7%95%8C%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%81%A8%E3%81%AF%E7%94%BB%E5%83%8F2.jpg",
         "coment" : ["フェアトレードでチョコレート、コーヒー、ドライフルーツなどを取引。原料・製法にこだわったハンドクラフト品も販売している。"]
     },
     {
@@ -221,6 +252,7 @@
         "sdgs" : [8],
         "url" : "https://crowdworks.jp/?tracking=lst-microsoft&utm_source=microsoft&utm_medium=cpc&utm_campaign=%E7%A4%BE%E5%90%8D&utm_content=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9&utm_term=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9&msclkid=e4fbb78f4e2418ae5277dfa963cb7716",
         "categories" : ["テクノロジー・デジタル","社会・ライフスタイル全般"],
+        "picture" : "https://cw-assets.crowdworks.jp/packs/2025-10/1/media/hero-text-4b7c63c158c00305b4dc.svg",
         "coment" : ["スキルに応じて誰もが仕事を獲得できる、インターネット上の労働市場。場所や時間に縛られない仕事機会の創出"]
     },
     {
@@ -228,6 +260,7 @@
         "sdgs" : [8],
         "url" : "https://goodjobcenter.com/about/",
         "categories" : ["アート・デザイン","社会・ライフスタイル全般"],
+        "picture" : "https://goodjobcenter.com/wp/wp-content/themes/gjc/images/logo/logo.png",
         "coment" : ["障害のある人が、アート・デザイン・ビジネスの分野をこえ、社会に新しい仕事をつくりだすことをめざしている"]
     },
     {
@@ -235,6 +268,7 @@
         "sdgs" : [12],
         "url" : "https://careers.nudiejeans.com/",
         "categories" : ["ファッション","サステナビリティ"],
+        "picture" : "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/c7631a83-141f-49f3-ac69-79c42266aaeb/original.jpeg?outputFormat=webp",
         "coment" : ["地球にやさしいオーガニックコットン。ジーンズを修理してゴミではなく、ヴィンテージになる服"]
     },
     {
@@ -242,6 +276,7 @@
         "sdgs" : [12,14,15],
         "url" : "https://www.patagonia.jp/home/?utm_source=bing&utm_medium=cpc&utm_campaign=%E6%8C%87%E5%90%8D&utm_content=F107WWG7_568458195_1174280177981762__kwd-73392811199673%3Aloc-96&utm_term=e_patagonia&msclkid=dabc55a7433518c056493db361725949",
         "categories" : ["ファッション","アウトドア・自然体験","社会・ライフスタイル全般"],
+        "picture" : "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dwf9c7e5f5/images/JP-images/Top-Shop/F25_PowSlayer_MensTopshop_multi_link_tile_cricco_jeff_00225_cc_WEB.jpg?q=85&sw=526&",
         "coment" : ["海洋に廃棄された漁網（ゴーストネット）を再利用した素材を防止やジャケットなど衣料品に使用済みの衣類を回収・修理・再販するプログラム"]
     },
     {
@@ -249,6 +284,7 @@
         "sdgs" : [6,9],
         "url" : "https://wota.co.jp/wota-box/",
         "categories" : ["テクノロジー・デジタル","医療・健康"],
+        "picture" : "https://wota.co.jp/wp-content/themes/WOTA_wp_ver201800903/wota-box-content/images/top/visual05--l.jpg",
         "coment" : ["下水が使えない場所でも、使用済み水をその場で浄化して再利用可能な装置。手洗い水を98%以上再利用できる。"]
     },
     {
@@ -256,6 +292,7 @@
         "sdgs" : [9],
         "url" : "https://reonpocket.sony.co.jp/",
         "categories" : ["テクノロジー・デジタル","家事・暮らし"],
+        "picture" : "https://reonpocket.sony.co.jp/common/image/index/92a_REON_PRO_hero_skeletpnKV_PC_w2880h1213.jpg",
         "coment" : ["服の内側に装着する小型デバイスでスマホで温度調整でき、夏も冬も快適。個別冷暖房によるエネルギー消費削減"]
     },
     {
@@ -263,6 +300,7 @@
         "sdgs" : [9,14],
         "url" : "https://bionicyarn.com/",
         "categories" : ["アウトドア・自然体験","ファッション"],
+        "picture" : "https://bionicyarn.com/wp-content/uploads/2024/07/Bionic_Logo_sm-copy.png",
         "coment" : ["海洋プラスチックごみから生まれた高強度の繊維。海や水路に流れ込むプラスチック廃棄物を減らすためのコミュニティの取り組みを支援している"]
     },
     {
@@ -270,6 +308,7 @@
         "sdgs" : [9,10],
         "url" : "https://www.starlink.com/jp",
         "categories" : ["テクノロジー・デジタル","医療・健康","教育・学び"],
+        "picture" : "https://starlink.com/public-files/home_c_hero_d.webp",
         "coment" : ["世界中どこでもインターネットを使える衛星ネットサービス。通信の“地域格差”を解消でき、僻地・発展途上国でも通信可能"]
     },
     {
@@ -277,6 +316,7 @@
         "sdgs" : [9,11],
         "url" : "None",
         "categories" : ["社会・ライフスタイル全般","家事・暮らし","テクノロジー・デジタル"],
+        "picture" : "None",
         "coment" : ["材料ロスや建設コストの削減、発展途上国の住宅不足にも対応。安価で早い建築インフラ→誰もが使える技術基盤の構築"]
     },
     {
@@ -284,6 +324,7 @@
         "sdgs" : [9,15],
         "url" : "None",
         "categories" : ["アウトドア・自然体験"],
+        "picture" : "None",
         "coment" : ["雨水を地中に戻す舗装ブロック、都市のヒートアイランド現象抑制。環境負荷を減らしながら産業インフラを構築"]
     },
     {
@@ -291,6 +332,7 @@
         "sdgs" : [9],
         "url" : "https://www.makuake.com/?utm_source=Yahoo_h&utm_medium=cpc&utm_campaign=non&utm_content=h2&yclid=YSS.EAIaIQobChMIwLvSlpumjQMVAIW5BR1wQwCGEAAYASAAEgIR1_D_BwE&sa_p=YSA&sa_cc=&sa_t=1747337431324&sa_ra=A8",
         "categories" : ["メディア・コンテンツ","ゲーム","ファッション","食・グルメ","テクノロジー・デジタル","教育・学び","ビューティー・コスメ","経済・ビジネス"],
+        "picture" : "https://th.bing.com/th/id/OIP.o3469y-iv-mcCCr1UHbO7AHaEK?w=326&h=183&c=7&r=0&o=7&pid=1.7&rm=3",
         "coment" : ["まだ世の中にないものやストーリーあふれるチャレンジが集まる「アタラシイものや体験の応援購入サービス」です。新商品、新体験、（日本初上陸などの商品・サービス含む）を購入できる。個々人の趣味嗜好に合った独自の商品や、かゆいところに手が届くようなアイデア商品にも出会える"]
     },
     {
@@ -298,6 +340,7 @@
         "sdgs" : [9],
         "url" : "https://www.kickstarter.com/",
         "categories" : ["ゲーム","アート・デザイン","音楽","テクノロジー・デジタル","政治・社会","経済・ビジネス"],
+        "picture" : "https://th.bing.com/th/id/OIP.iy-otsSrYuLzZQW5E0cYagHaEK?w=316&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
         "coment" : ["持続可能な技術開発を資金面から支える"]
     },
     {
@@ -305,6 +348,7 @@
         "sdgs" : [10],
         "url" : "None",
         "categories" : ["家事・暮らし"],
+        "picture" : "None",
         "coment" : ["高齢者・障がい者・子どもにも使いやすいデザイン製品（日用品、家電）。「誰でも使える」ことを前提にした製品設計＝機会の平等化"]
     },
     {
@@ -312,6 +356,7 @@
         "sdgs" : [5,10],
         "url" : "https://www.lush.com/jp/ja/c/charity-pot-collection",
         "categories" : ["ビューティー・コスメ","医療・健康","サステナビリティ"],
+        "picture" : "https://www.lush.com/cdn-cgi/image/width=256,f=auto,quality=75/https://unicorn.lush.com/media/thumbnails/products/sunflower_soap_19d41bcd_thumbnail_256.png",
         "coment" : ["全額が草の根団体に寄付される保湿用クリーム石鹸。売上の100%（原価を除く）が、人権・環境・マイノリティ支援団体へと寄付される。どの団体に寄付されるかが容器に記載されている"]
     },
     {
@@ -319,6 +364,7 @@
         "sdgs" : [8,10],
         "url" : "https://gaku.school/",
         "categories" : ["アート・デザイン","教育・学び","ビューティー・コスメ"],
+        "picture" : "https://gaku.school/wp/wp-content/uploads/2024/03/gaku2_34-1.jpg",
         "coment" : ["不登校・経済的困難・LGBTQなどの課題を抱える若者が、創作活動を通じて自己表現できる場。若者が制作したアート、ZINE、雑貨などをオンライン販売"]
     },
     {
@@ -326,6 +372,7 @@
         "sdgs" : [17],
         "url" : "https://readyfor.jp/",
         "categories" : ["政治・社会"],
+        "picture" : "https://th.bing.com/th/id/OIP.v_Bo5k6_kbDQcd3ObkTu5QHaBp?w=321&h=77&c=7&r=0&o=7&pid=1.7&rm=3",
         "coment" : ["いろいろなプロジェクトへの支援"]
     },
     {
@@ -333,6 +380,7 @@
         "sdgs" : [1,10,12],
         "url" : "https://www.toms.com/en-us",
         "categories" : ["ファッション","政治・社会"],
+        "picture" : "https://cdn.builder.io/api/v1/image/assets%2Fdd9d21227c984fde890a8b55848570b1%2F00a3fc64852a43259e50ec8b79b6fe1c?format=webp&width=2000",
         "coment" : ["トムスの靴を1足売れると靴を買うことができない子どもたちに1足寄付を行っています"]
     },
     {
@@ -340,6 +388,7 @@
         "sdgs" : [10],
         "url" : "https://pocketalk.jp/device?utm_source=bing&utm_medium=cpc&utm_campaign=em_device&msclkid=344e34d8c8f8134b91205cfe80b67805",
         "categories" : ["旅行・観光","文学・本","テクノロジー・デジタル"],
+        "picture" : "https://pocketalk.jp/hubfs/images/product/top/renew2509/kv-pkt-hand.webp",
         "coment" : ["瞬時に翻訳して会話を可能にする小型デバイス外国人観光客との接客。言語の壁による“情報格差”や“行政サービスの不平等”を解消"]
     },
     {
@@ -347,6 +396,7 @@
         "sdgs" : [10],
         "url" : "https://www.slowlabel.info/about-us/",
         "categories" : ["アート・デザイン","音楽","社会・ライフスタイル全般"],
+        "picture" : "https://www.slowlabel.info/img/header_logo.png",
         "coment" : ["障がい者アーティストとデザイナーが共同で製作したアクセサリーやインテリア。障がいが“制限”ではなく“表現”になる雇用モデル"]
     },
     {
@@ -354,6 +404,7 @@
         "sdgs" : [11],
         "url" : "https://homes.panasonic.com/sumai/lineup/casart/",
         "categories" : ["家事・暮らし"],
+        "picture" : "https://homes.panasonic.com/sumai/lineup/casart/img/intro-img.jpg",
         "coment" : ["住まう方にとっての“心地よさ”を大切にしながら、素材の質感や色にこだわり、インテリア空間を提案します。断熱・省エネ・創エネを組み合わせた次世代スマート住宅"]
     },
     {
@@ -361,6 +412,7 @@
         "sdgs" : [10,11],
         "url" : "https://whill.inc/jp/",
         "categories" : ["家事・暮らし","テクノロジー・デジタル","乗り物・交通"],
+        "picture" : "https://whill.inc/jp/wp-content/themes/whill-jp/assets/dist/images/bottom-cta/btm-d2c@3x.webp?v=0120",
         "coment" : ["スタイリッシュで小回りが利くパーソナルモビリティ公共空間でも利用しやすく、介助がいらない。自動運転モデルもあり、空港・駅構内での活用例も高齢者や障がい者が自立して移動できる"]
     },
     {
@@ -368,6 +420,7 @@
         "sdgs" : [11],
         "url" : "https://www.ykkap.co.jp/consumer/search/products/window?utm_source=yahoo&utm_medium=cpc&utm_campaign=ykkap&yclid=YSS.EAIaIQobChMI-82uvqamjQMVYc8WBR39Qz00EAAYASAAEgJs8fD_BwE&sa_p=YSA&sa_cc=&sa_t=1747340468042&sa_ra=DE",
         "categories" : ["家事・暮らし"],
+        "picture" : "https://www.ykkap.co.jp/asset_2021/image/logo_001.svg",
         "coment" : ["高断熱・防災対応建材窓からの熱の流出を最小限に台風・地震にも強い構造災害リスクを減らし、快適な住環境を維持＝住み続けられるまちの実現"]
     },
     {
@@ -375,6 +428,7 @@
         "sdgs" : [11],
         "url" : "https://toyota.jp/cwalkt/",
         "categories" : ["家事・暮らし","乗り物・交通"],
+        "picture" : "https://toyota.jp/pages/contents/cwalkt/image/MV_img01_pc.png",
         "coment" : ["大規模施設での巡回や警備をはじめとした歩行業務をサポート。近所へ少しラクをして出かけたいときにも活躍。歩行速度で安全に移動できる電動モビリティ"]
     },
     {
@@ -382,13 +436,15 @@
         "sdgs" : [11],
         "url" : "https://cloak.ecbo.io/ja",
         "categories" : ["旅行・観光","家事・暮らし"],
-        "coment" : ["空き空間の有効活用＝都市の機能最適化、誰にでも使いやすいまちづくり"]
+        "picture" : "https://cloak.ecbo.io/how_to_2.webp",
+        "coment" : ["簡単手荷物預かりサービス。旅行時にでも快適に過ごせる"]
     },
     {
         "name" : "MUJI INFILL 0",
         "sdgs" : [8,11],
         "url" : "https://www.muji.net/renovation/infill0/",
         "categories" : ["家事・暮らし","社会・ライフスタイル全般"],
+        "picture" : "https://www.muji.net/renovation/assets/img/infill0/main_img.jpg",
         "coment" : ["必要なものだけを残して,原点を作り自由にパーツ、アイテム、素材をプラスして住む。家具や建具を配置することで、自由に間取りや暮らしを編集することができます。朽化した団地を低コストで再生、若者や高齢者に再提供"]
     },
     {
@@ -396,6 +452,7 @@
         "sdgs" : [12],
         "url" : "https://www.muji.com/jp/re-muji/?msockid=01b25109f9eb692816e445e1f85c688c",
         "categories" : ["ファッション","サステナビリティ"],
+        "picture" : "https://www.muji.com/jp/ja/special-feature/other/remuji/reusing-clothes/assets/img/kv-desktop.webp",
         "coment" : ["リサイクル・簡易包装・長く使える製品。古着として再販売する『洗いなおした服』や、服と服をつなぎ合わせて、リメイクし、次の人につなげていく『つながる服』などの販売も行っています。消費と廃棄の在り方を見直し、「長く使う文化」を再構築"]
     },
     {
@@ -403,6 +460,7 @@
         "sdgs" : [12],
         "url" : "https://exploreloop.com/ja",
         "categories" : ["食・グルメ","ビューティー・コスメ"],
+        "picture" : "https://exploreloop.com/assets/heinz_top-B7zYzVEJ.png",
         "coment" : ["日用品や食品を、再利用可能な容器で販売することを可能にする。消費者から返却された容器を回収し、預り金を返金。「捨てるという概念を捨てよう!」という取り組み"]
     },
     {
@@ -410,6 +468,7 @@
         "sdgs" : [12],
         "url" : "https://bulk.co.jp/shop/pages/sp_aboutus",
         "categories" : ["ビューティー・コスメ"],
+        "picture" : "https://d2w53g1q050m78.cloudfront.net/bulk/uploads/img/pc/about/EC_PC_Brand%20Concept_8SKU.jpg",
         "coment" : ["自然の力と科学の力を融合することで生まれる、確かな効果実感と感覚的な豊かさが織りなす機能と品質。化粧水や洗顔料などに詰め替えパウチを採用"]
     },
     {
@@ -417,6 +476,7 @@
         "sdgs" : [12],
         "url" : "https://ecoink.in/user_data/recycletoner?utm_source=microsoft&utm_medium=cpc&utm_campaign=m-ertrtoner&exparam=no&exparam2=true&msclkid=b8a46b8c14b41f990fc203aa46d58049",
         "categories" : ["教育・学び","文学・本","社会・ライフスタイル全般"],
+        "picture" : "https://ecoink.in/html/template/default/assets/img/all/logo-wh.svg",
         "coment" : ["使用済みトナーカートリッジを回収・分解・再製造をおこなう。回収→再生のしくみが確立されている"]
     },
     {
@@ -424,6 +484,7 @@
         "sdgs" : [12,13,14,15],
         "url" : "https://www.zojirushi.co.jp/index.html",
         "categories" : ["ゲーム","家事・暮らし","サステナビリティ"],
+        "picture" : "https://www.zojirushi.co.jp/share/img/logo-white.svg",
         "coment" : ["マイボトルを持ち運びプラスチックごみの削減。日常の使い捨て削減がCO₂排出の削減に長期間使用できる耐久性"]
     },
     {
@@ -431,6 +492,7 @@
         "sdgs" : [12,13],
         "url" : "https://www.uniqlo.com/jp/ja/contents/sustainability/planet/clothes_recycling/re-uniqlo/product/?msockid=01b25109f9eb692816e445e1f85c688c",
         "categories" : ["ファッション","サステナビリティ"],
+        "picture" : "https://www.uniqlo.com/jp/ja/contents/sustainability/planet/clothes_recycling/re-uniqlo/product/img/pc_recycle03.png",
         "coment" : ["回収したユニクロ製品からダウンを再利用、生産時のCO₂排出削減、環境負荷の少ない衣料生産"]
     },
     {
@@ -438,6 +500,7 @@
         "sdgs" : [1,8],
         "url" : "https://www.sustainability.nespresso.com/communities/reviving-origins",
         "categories" : ["食・グルメ","社会・ライフスタイル全般"],
+        "picture" : "https://www.sustainability.nespresso.com/sites/site.prod.sustainability.nespresso.com/files/Colombia_Cauca_Coffee_Farm_Landslide_Horizontal.jpg",
         "coment" : ["コーヒーカプセル＆再利用プログラム。経済的困難、自然災害など、コーヒー作物や農園が脅威にさらされている地域を支援"]
     },
     {
@@ -445,6 +508,7 @@
         "sdgs" : [6,9,13],
         "url" : "https://www.mymizu.co/",
         "categories" : ["食・グルメ","サステナビリティ","テクノロジー・デジタル"],
+        "picture" : "https://images.squarespace-cdn.com/content/v1/5d2bebc1fc9ee70001122846/1673913514694-UM8X2E0NV14RNJ8KT58C/mymizu+Harumari+1.jpg?format=2500w",
         "coment" : ["ペットボトル不要なのでプラスチック製造・廃棄のCO₂抑制。外出先でも環境配慮を継続可能"]
     },
     {
@@ -452,6 +516,7 @@
         "sdgs" : [14],
         "url" : "https://www.4ocean.com/",
         "categories" : ["旅行・観光","アウトドア・自然体験","動物・ペット","ファッション"],
+        "picture" : "https://cdn.shopify.com/s/files/1/0996/1022/files/1748_PLF_MC_OctopusBracelet_combo_1x1_1.jpg?v=1759861403&width=1440",
         "coment" : ["海洋から回収したプラスチックで作られたブレスレット。1本購入ごとに1ポンド（約450g）のごみを海から回収。カラフルでデザイン性も高い"]
     },
     {
@@ -459,6 +524,7 @@
         "sdgs" : [14],
         "url" : "https://www.razer.com/jp-jp/collabs/panerai",
         "categories" : ["ゲーム","ファッション","アウトドア・自然体験","動物・ペット"],
+        "picture" : "https://assets2.razerzone.com/images/pnx.assets/6d7c69425f6c3ea4a04a4e7e5cf5692a/razer-panerai_luminorquaranta_500x500.jpg",
         "coment" : ["売上の一部が海洋保全NGO「Conservation International」へ。時計としても実用性・デザイン性"]
     },
     {
@@ -466,6 +532,7 @@
         "sdgs" : [12,14],
         "url" : "https://ethicame.com/shop/pages/ethique-top",
         "categories" : ["アウトドア・自然体験","ビューティー・コスメ","サステナビリティ"],
+        "picture" : "https://d2w53g1q050m78.cloudfront.net/ethicamecom/uploads/img/brand/ethique/slider/Ethique-Haircare-Range.png",
         "coment" : ["プラスチックボトルを使わない固形ヘアケア製品生分解性が高く、排水後も水質を汚さない。パッケージも堆肥化可能な紙素材洗剤などによる海洋汚染の削減いろいろなにおいがあってよい"]
     },
     {
@@ -473,6 +540,7 @@
         "sdgs" : [14],
         "url" : "https://www.tombow.com/press/241114/",
         "categories" : ["アウトドア・自然体験","教育・学び","子育て・育児","文学・本","動物・ペット"],
+        "picture" : "https://www.tombow.com/files/2024/11/pt_masfn_hand-768x512.jpg",
         "coment" : ["使用済み漁網を再生利用した樹脂を使用した新製品「ピットエアー　漁網リサイクル」という詰め替え式テープのりを発売"]
     },
     {
@@ -480,6 +548,7 @@
         "sdgs" : [12,14],
         "url" : "https://pelp.jp/",
         "categories" : ["子育て・育児","教育・学び","サステナビリティ"],
+        "picture" : "https://pelp.jp/cms/wp-content/themes/PELP-theme/images/mainvisual_01_20221019.webp",
         "coment" : ["使わなくなったコピー用紙を集めて新しい紙製品を作るCO2の削減"]
     },
     {
@@ -487,6 +556,7 @@
         "sdgs" : [1,8,12,15],
         "url" : "https://www.miyazawa-kk.jp/banana_paper/howto/",
         "categories" : ["アウトドア・自然体験","アート・デザイン","教育・学び","社会・ライフスタイル全般","文学・本"],
+        "picture" : "https://www.miyazawa-kk.jp/banana_paper/wp/wp-content/themes/miyazawa/src/images/howto/img_about_01.jpg",
         "coment" : ["アフリカ・ザンビアの廃棄バナナ茎を利用した紙製品。木を使わないため森林伐採ゼロ、野生動物の生息域保全と雇用支援を両立"]
     },
     {
@@ -494,6 +564,7 @@
         "sdgs" : [15],
         "url" : "None",
         "categories" : ["アウトドア・自然体験"],
+        "picture" : "None",
         "coment" : ["放置されがちな雑木林の管理に役立つ、樹種の多様性も守る。日本の低利用材（雑木）を使った高品質楊枝、森林整備による生物多様性の保全"]
     },
     {
@@ -501,6 +572,7 @@
         "sdgs" : [16],
         "url" : "https://www.fairfin.be/",
         "categories" : ["経済・ビジネス","メディア・コンテンツ","政治・社会","サステナビリティ"],
+        "picture" : "",
         "coment" : ["手っ取り早く利益を上げるために、彼らは他のすべてを犠牲にします。これは、より正直で、より透明性があり、より民主的であるという、異なる方法で行うことができる"]
     },
     {
@@ -508,6 +580,7 @@
         "sdgs" : [1,8,16],
         "url" : "https://shop.equalexchange.coop/",
         "categories" : ["社会・ライフスタイル全般","食・グルメ","ホビー・趣味","政治・社会"],
+        "picture" : "https://zapdrupalfilesprod.s3.eu-central-1.amazonaws.com/fairfin/styles/teaser_medium/s3/2025-09/Naamloos-11.png?VersionId=3idblQjsgZ07DmK8TxBV3fGzWruiBUQT&h=d1cb525d&itok=veORmzCH",
         "coment" : ["規模農家の自立支援を目的としたフェアトレード商品。中間搾取を排し、生産者と直接契約。安定した価格での買い取りを保証。経済的不平等の是正と生活の公正化"]
     },
     {
@@ -515,6 +588,7 @@
         "sdgs" : [1,5,8,16],
         "url" : "https://www.earthcompany.info/ja/",
         "categories" : ["社会・ライフスタイル全般","ホビー・趣味","旅行・観光","家事・暮らし"],
+        "picture" : "https://www.earthcompany.info/wp-content/uploads/2025/01/IMG_4699-min-scaled.jpg",
         "coment" : ["貧困や暴力から逃れた女性の自立支援プロジェクト製品。手作業で作られた1点ものの布製品が人気。寄付や寄稿ではなく「仕事の創出」で支援。女性の保護と社会参画の推進"]
     },
     {
@@ -522,34 +596,39 @@
         "sdgs" : [14,15,17],
         "url" : "https://www.ecosia.org/",
         "categories" : ["アウトドア・自然体験","サステナビリティ","旅行・観光"],
-        "coment" : ["検索利用ごとに広告収益の80％以上を植林プロジェクトに活用。WWFなどと提携し、アフリカや南米で木を植える活動。環境保全と情報インフラ企業のパートナーシップ"]
+        "picture" : "https://th.bing.com/th/id/OIP.caLj03If_fjozKRGY9wXvAHaDt?w=343&h=174&c=7&r=0&o=7&pid=1.7&rm=3",
+        "coment" : ["検索利用ごとに広告収益の80％以上を植林プロジェクトに活用。WWFなどと提携し、アフリカや南米で木を植える活動。"]
     },
     {
         "name" : "PGV株式会社",
         "sdgs" : [3,9],
         "url" : "https://www.pgv.co.jp/technology-device",
         "categories" : ["テクノロジー・デジタル","医療・健康","家事・暮らし"],
-        "coment" : ["睡眠中の脳波計測も、スムースにできます。額に貼るだけの手のひらサイズ。伸縮式の電極シートとともに、装着に専門的な技術は不要で、どなたでも精度の変わらない計測が可能です。"]
+        "picture" : "https://www.pgv.co.jp/hubfs/HARU-2_Pages_Resources/on_palm.png",
+        "coment" : ["睡眠中の脳波計測も、スムースにできます。額に貼るだけの手のひらサイズ。どなたでも計測が可能です。"]
     },
     {
         "name" : "COTTON",
         "sdgs" : [3,5],
         "url" : "https://cotton.jcom.co.jp/",
         "categories" : ["医療・健康","子育て・育児"],
-        "coment" : ["女性のライフステージに応じて、一人ひとりの体質・心身の健康をサポートするプラットフォームです。女性だけでなく、経営者・管理職を含むすべての方にご利用いただき、Cottonを通じて、関係するすべての大切な方の健康課題を解決する一助となることを目指しています。"]
+        "picture" : "https://cotton.jcom.co.jp/wp-content/uploads/2024/09/COTTON_01_PNG-1-1024x354.png",
+        "coment" : ["女性のライフステージに応じて、一人ひとりの体質・心身の健康をサポートするプラットフォームです。"]
     },
     {
         "name" : "生理痛体験研修",
         "sdgs" : [5,9],
         "url" : "https://sites.google.com/view/ohc-period/home?authuser=2",
         "categories" : ["テクノロジー・デジタル","医療・健康"],
-        "coment" : ["生理痛（月経痛）の苦しみは、経験していない男性はもちろん、個人差があるため同じ女性でも理解しづらいです。大阪ヒートクールでは、ピリオノイド（生理痛VR体験装置）を通して、生理痛を擬似体験してもらい、少しでもそんな苦労を分かり合うキッカケ作りをしたいと思っています。"]
+        "picture" : "https://lh3.googleusercontent.com/sitesv/AICyYdY90r9lmTgSyblSHdlHcv7phxOsxhey4autB47QpXRKkH8iwNCZpTtWbu293TQhPDWBL9E4G3cKUboJV1gS7TVgSnmjexs24NyW7_lDi88nQZGMIp33r9TPuEW8qO97E3A8ELS7HK8zbt-9cL87ZbXr5XwNWtroBLZgqDeV6WLWnzsnsBKMe3AwZ6ciDS3UA-qd4XuF746MviwuQeM473IWUogpuZsf9yrSRfk=w1280",
+        "coment" : ["生理痛（月経痛）の苦しみは、経験していない男性はもちろん、個人差があるため同じ女性でも理解しづらいです。"]
     },
     {
         "name" : "MYLILY",
         "sdgs" : [3,5],
         "url" : "https://mylily.jp/lp",
         "categories" : ["医療・健康"],
+        "picture" : "https://mylily.jp/newsite/wp-content/uploads/2025/08/Group-770-1.png",
         "coment" : ["更年期治療サポート"]
     },
     {
@@ -557,13 +636,15 @@
         "sdgs" : [3,5],
         "url" : "https://www.blog.wataiki-htv.com/",
         "categories" : ["メディア・コンテンツ","医療・健康","スポーツ・アクティビティ"],
-        "coment" : ["月経など女性特有の健康課題がアスリートに及ぼす影響や、適切な教育やサポートが心身にどのように影響するかを調べます。教育面ではスポーツドクターの資格を持つ産婦人科医による対面での講習。"]
+        "picture" : "None",
+        "coment" : ["月経など女性特有の健康課題がアスリートに及ぼす影響や、適切な教育やサポートが心身にどのように影響するかを調べます。"]
     },
     {
         "name" : "cobeya",
         "sdgs" : [5],
         "url" : "https://cobeya.jp/couple/",
         "categories" : ["医療・健康","家事・暮らし"],
+        "picture" : "https://cobeya.jp/couple/img/cobeya_logo.webp",
         "coment" : ["カップルセラピーを活用した一般不妊治療段階における男女へのオンライン支援事業"]
     },
     {
@@ -571,6 +652,7 @@
         "sdgs" : [3,9],
         "url" : "https://sympafit.co.jp/#service",
         "categories" : ["医療・健康","スポーツ・アクティビティ","子育て・育児"],
+        "picture" : "https://sympafit.co.jp/wp-content/uploads/2025/06/Group-48098428.png",
         "coment" : ["血糖値でメンタルを読む アスリートから妊活女性まで、血糖値データから食事だけでなく、 ストレス、睡眠の質、緊張と興奮、そして女性ホルモン変動まで解析し、ワンストップでサポートするサービスです。"]
     },
     {
@@ -578,6 +660,7 @@
         "sdgs" : [3,5,17],
         "url" : "https://curemo.co.jp/",
         "categories" : ["ゲーム","医療・健康","社会・ライフスタイル全般"],
+        "picture" : "https://curemo.co.jp/img/h_logo.png",
         "coment" : ["妊娠期間中や月経・PMS前、更年期前にパートナーと一緒に、自分達の夫婦・カップルタイプや状況にあわせた専門医の科学的根拠に基づいた関係強化およびコミュニケーション／情緒的物理的サポートスキルをLINE上で会話をしながらトレーニングを行います。"]
     },
     {
@@ -585,6 +668,7 @@
         "sdgs" : [3,5],
         "url" : "https://store.tenga.co.jp/shop/product_categories/iroha_pf?_gl=1*rpvvb*_gcl_au*MjA3NDQ1NDcxOS4xNzUxNTA4MjEz*_ga*MTg0NDA3OTE3Ny4xNzUxNTA4MjEz*_ga_TGE31LLSWS*czE3NTE1MDgyMTIkbzEkZzEkdDE3NTE1MDgyMzQkajM4JGwwJGgw",
         "categories" : ["医療・健康"],
+        "picture" : "https://d2w53g1q050m78.cloudfront.net/storetengacojp/uploads/240507_logo_iroha.svg",
         "coment" : ["このアプリケーションは、骨盤底筋の筋力測定アイテムである『ケーゲルチェッカー』と同時に使用され、ケーゲルチェッカーによる測定の補助、測定結果の記録、測定結果に基づく推奨トレーニングの提示、またトレーニング方法の解説や補助といった機能を有する。"]
     },
     {
@@ -592,6 +676,7 @@
         "sdgs" : [3,5],
         "url" : "https://watashino-ondo.toppan-edge.co.jp/index.html",
         "categories" : ["医療・健康","社会・ライフスタイル全般"],
+        "picture" : "https://watashino-ondo.toppan-edge.co.jp/common/images/h_logo.png",
         "coment" : ["「わたしの温度®」は、誰でも、手軽に、簡単に。女性特有の温度リズムを自動計測できるヘルスケアデバイス＆アプリです"]
     },
     {
@@ -599,13 +684,15 @@
         "sdgs" : [5,12,14],
         "url" : "https://period-tokyo.com/?srsltid=AfmBOooSLk4g4_zwnPXgbXPHHuCIS0GbeS8KScZQ2EyrXUjVWMo-x_Tn",
         "categories" : ["医療・健康","社会・ライフスタイル全般"],
-        "coment" : ["生理の日もいつもの日も毎日お使いいただけます。「クロッチ幅を「狭く」して漏れにくく」漏れが生じる最大の箇所はショーツと鼠径部のすき間。この空間を埋めるためにストレッチの効く素材をサイド部分に配置し、クロッチ(吸収部分)と体がぴったりと沿うようにデザインされています。また、ストレッチ生地により締め付け感もありません。"]
+        "picture" : "https://period-tokyo.com/cdn/shop/files/logo_2x_05cce160-6c20-41c3-a704-8a80ae8f7bcc_180x.png?v=1614330979",
+        "coment" : ["空間を埋めるためにストレッチの効く素材をサイド部分に配置し、クロッチ(吸収部分)と体がぴったりと沿うようにデザインされています。"]
     },
     {
         "name" : "hug+u",
         "sdgs" : [5],
         "url" : "https://fami-leaf.com/about_hugu_ja",
         "categories" : ["医療・健康","社会・ライフスタイル全般","子育て・育児"],
+        "picture" : "https://storage.googleapis.com/studio-design-asset-files/projects/G3qb2xbxqJ/s-774x420_ef7da96a-cb22-4e34-b5c1-453c4ab287c5.gif",
         "coment" : ["妊婦とパートナーをサポートするヘルスケアアプリ。医師の監修のもと開発された、妊娠期に特化した体調管理アプリです。"]
     },
     {
@@ -613,6 +700,7 @@
         "sdgs" : [3,5],
         "url" : "https://mamaniere.pola.co.jp/",
         "categories" : ["医療・健康","社会・ライフスタイル全般"],
+        "picture" : "https://storage.googleapis.com/studio-design-asset-files/projects/bXqzL7G1WD/s-418x100_webp_ae9384c6-8ceb-4e1d-a345-3bcaee713e23.webp",
         "coment" : ["今の状態に合わせて、ケア方法やおすすめのサービスがわかる。分析結果と、赤ちゃんの月齢を加味して、その方にぴったりな産後特有の悩みを解決するケア方法や乳幼児ファミリーを手助けするサービスが提案されます。"]
     },
     {
@@ -620,6 +708,7 @@
         "sdgs" : [5],
         "url" : "https://xxnanoni.com/",
         "categories" : ["社会・ライフスタイル全般"],
+        "picture" : "https://storage.googleapis.com/studio-design-asset-files/projects/EXawBb8pqD/s-1200x704_v-fms_webp_0f420be1-ddaa-4b17-b248-a367887db283_small.webp",
         "coment" : ["生理や妊活、更年期といった健康課題はこれまで「女性の話題」として整理され、会社の中でオープンに話す土壌がほとんどありませんでした。しかしながら、今は一億総活躍の時代。誰もがよりよく生きるために、性別特有の健康課題を男女が共に学ぶことがますます必要だと私たちは考えています。"]
     },
     {
@@ -627,6 +716,7 @@
         "sdgs" : [3,5],
         "url" : "https://www.joyher.life/",
         "categories" : ["テクノロジー・デジタル","医療・健康"],
+        "picture" : "https://images.squarespace-cdn.com/content/v1/65a7c57559add61b2ff2cca0/1705493881042-3R50C22A4JF3AVXSVML3/herlife_logo_download.png?format=300w",
         "coment" : ["孤独や不安などネガティブな気持ちが多く訪れる更年期。適切なセルフケアや仲間とともに乗り越えれば、新しい自分に出会えることでしょう。"]
     },
     {
@@ -634,6 +724,15 @@
         "sdgs" : [8,9],
         "url" : "https://main.flora-tech.jp/ja/wellflow-health-hr",
         "categories" : ["経済・ビジネス","テクノロジー・デジタル"],
+        "picture" : "https://biz.flora-tech.jp/_next/image?url=%2Fimages%2Fwellflow%2Fapp-info%2Fdefault%2Fphone-desktop.webp&w=1920&q=100&dpl=dpl_8DU34ujZw92tNT3KiQJdT44h8f7s",
         "coment" : ["サーベイ・行動促進から認定取得まで、全てを推進するサービス"]
+    },
+    {
+        "name" : "sawadamarche",
+        "sdgs" : [12],
+        "url" : "https://sawadamarche.com/",
+        "categories" : ["経済・ビジネス","ホビー・趣味","ファッション"],
+        "picture" : "https://cdn.shopify.com/s/files/1/0423/9766/3383/t/27/assets/-1638349001316.bmp?v=1638349008",
+        "coment" : ["服などを再利用して糸に戻す取り組み"]
     }
 ]
